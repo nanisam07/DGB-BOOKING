@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "DGB Booking",
+    "slug": "dgb-booking-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#E8365D"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.dgb.booking"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E8365D"
+      },
+      "package": "com.dgb.booking"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
